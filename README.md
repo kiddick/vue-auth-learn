@@ -1,6 +1,8 @@
 # vue-auth-learn
 
-Repo for tutorial https://blog.sqreen.com/authentication-best-practices-vue/
+Simple vue auth demo
+
+Repo based on https://github.com/christiannwamba/vue-auth-vuex
 
 ## Project setup
 ```
